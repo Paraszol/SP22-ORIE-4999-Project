@@ -7,10 +7,10 @@ to ensure that students fulfill their graduation requirements.
 ## Description
 
 According to resources listed in "Resources," the program takes in a student's list of courses
-and prints to the "Graduation Checklist" spreadsheet which fills in the requirements
-the students satisfies and any unsatisfied courses will be left blank. The program will then
-tell the student what requirement they are missing. A "Percentage to Graduate" feature also
-shows the student what percentage of their requirements have been fulfilled.
+"CourseList1.csv" and prints to the "GraduationChecklist.csv" spreadsheet which fills in the
+requirements the students satisfies and any unsatisfied courses will be left blank. The program
+will then tell the student what requirement they are missing. A "Percentage to Graduate" feature
+also shows the student what percentage of their requirements have been fulfilled.
 
 ## Resources
 * Engineering Undergraduate Handbook (2021) contains all flowcharts and requirements
