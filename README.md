@@ -25,5 +25,6 @@ Yes List" tab contains another list of approved liberal studies courses
 
 ## Authors
 
-Grace Liu (tl544)
-Sophie Zhao (sz266)
+* Grace Liu (tl544)
+* Sophie Zhao (sz266)
+* David Goldberg (Faculty Advisor)
